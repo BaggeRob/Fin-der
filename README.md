@@ -1,9 +1,16 @@
 ![alt tag](https://github.com/BaggeRob/Fin-der/blob/master/logo.png)
 # Fin-der
+This project was part of a solution during Fishackaton 2016. The solution in its whole consists of 3 parts
+- An app to help government agents, other inspectors, distributors and others in there process to audit fish fillets.
+- A backend solution based on [Elastic Cloud](https://cloud.elastic.co)
+- An analytics platform where a user can interact with the live dataset.
 
-Open source resources for the project Finder during Fishackathon 2016
+This project includes the analytics part of the solution and features scripts to generate data in to Elasticsearch as well as a definition of a live example dashboard that is aimed to let a regulatory body in its daily work to track Passed and Failed audits/inspections. The dashboard give information about:
+- Where the Inspection/Audit was carried out
+- How Inspection/Audit results has changed over the last 30 days
+- Who has been Inspected/Audited recently and how many of these they have passed
 
-You can interactive with our data here [Fin-der interactive dashboard](https://c0746c228e7c9263ac770c7b3343112a.eu-west-1.aws.found.io/app/kibana#/dashboard/fish?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-30d,mode:quick,to:now))&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:Number-of-Inspections-Passed-slash-Failed,panelIndex:6,row:1,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-inspections-carried-out-in-an-area-(Darker-colour-equal-Higher-density)',panelIndex:7,row:1,size_x:6,size_y:5,type:visualization),(col:7,id:Number-of-Passed-slash-Failed-Inspection-per-Supplier,panelIndex:9,row:5,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-Passed-slash-Failed-Inspections-over-Time-(Passed-in-Blue,-Failed-in-Red)',panelIndex:10,row:6,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,query:'*')),title:fish,uiState:(P-6:(vis:(colors:(failedinspection:%23EA6460,passedinspection:%231F78C1),legendOpen:!f)),P-9:(vis:(legendOpen:!f)))))
+The Dashboard can be reached here [Fin-der interactive dashboard](https://c0746c228e7c9263ac770c7b3343112a.eu-west-1.aws.found.io/app/kibana#/dashboard/fish?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-30d,mode:quick,to:now))&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:Number-of-Inspections-Passed-slash-Failed,panelIndex:6,row:1,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-inspections-carried-out-in-an-area-(Darker-colour-equal-Higher-density)',panelIndex:7,row:1,size_x:6,size_y:5,type:visualization),(col:7,id:Number-of-Passed-slash-Failed-Inspection-per-Supplier,panelIndex:9,row:5,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-Passed-slash-Failed-Inspections-over-Time-(Passed-in-Blue,-Failed-in-Red)',panelIndex:10,row:6,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,query:'*')),title:fish,uiState:(P-6:(vis:(colors:(failedinspection:%23EA6460,passedinspection:%231F78C1),legendOpen:!f)),P-9:(vis:(legendOpen:!f)))))
 
 Login with the following credentials:
 

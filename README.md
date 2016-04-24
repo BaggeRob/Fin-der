@@ -5,6 +5,8 @@ This project was part of a solution during Fishackaton 2016. The solution in its
 - A backend solution based on [Elastic Cloud](https://cloud.elastic.co)
 - An analytics platform where a user can interact with the live dataset
 
+![alt tag](https://github.com/BaggeRob/Fin-der/blob/master/fin-der-solution-and-roadmap)
+
 This project includes the analytics part of the solution and features scripts to generate data in to Elasticsearch as well as a definition of a live example dashboard that is aimed to let a regulatory body in its daily work to track Passed and Failed audits/inspections. The dashboard give information about:
 - Where the Inspection/Audit was carried out
 - How Inspection/Audit results has changed over the last 30 days

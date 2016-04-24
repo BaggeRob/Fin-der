@@ -1,4 +1,5 @@
 # Fin-der
+(https://github.com/BaggeRob/Fin-der/blob/master/logo.png)
 
 Open source resources for the project Finder during Fishackathon 2016
 

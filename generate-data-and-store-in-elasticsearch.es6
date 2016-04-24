@@ -8,7 +8,7 @@ const password = process.argv[4];
 
 if(!elasticcloudEndpoint || !username || !password) {
   console.log('Parameters missing. Usage:');
-  console.log('node generateFinderData.es6 <elasticcloudEndpoint> <username> <password>');
+  console.log('node generate-data-and-store-in-elasticsearch.es6 <elasticcloudEndpoint> <username> <password>');
   return Promise.reject('');
 }
 

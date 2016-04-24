@@ -26,13 +26,13 @@ When entering the platform you will be presented with the following visualisatio
 
 ![alt tag](https://github.com/BaggeRob/Fin-der/blob/master/dashboard.png)
 
-#### Where
+Where
 - The top left visualisation can be used to drill down on geographic areas where audits/inspections have been carried out over the last 30 days
 - The bottom left visualisation shows how many audits/inspections that was passed/failed over the last 30 days
 - The top right visualisation shows total number of passed and failed audits/inspections
 - The bottom right visualisation shows who has been targeted by inspections/audits and how they went.
 
-#### All visualisations are interactive and you can filter what data that shows on the dashboard by clicking on the graphs. For example in the image below that has been filtered to only show failed inspections by clicking on the fail bar in the top right visualisation
+All visualisations are interactive and you can filter what data that shows on the dashboard by clicking on the graphs. For example in the image below that has been filtered to only show failed inspections by clicking on the fail bar in the top right visualisation
 
 ![alt tag](https://github.com/BaggeRob/Fin-der/blob/master/dashboard-filter-fail.png)
 

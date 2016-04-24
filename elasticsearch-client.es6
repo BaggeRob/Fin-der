@@ -17,7 +17,7 @@ function postToElasticcloud(elasticsearchEndpoint, path, authHeader, document) {
 function storeDocumentsInElasticserach(documents, elasticsearchEndpoint, username, password) {
   const authCredentials = `${username}:${password}`;
   const authHeader = `Basic ${new Buffer(authCredentials).toString('base64')}`;
-  const path = '/dummy/dummyType';
+  const path = '/fish/inspection';
 
   const runStats = {
     successCount: 0,

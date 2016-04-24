@@ -3,7 +3,7 @@
 This project was part of a solution during Fishackaton 2016. The solution in its whole consists of 3 parts
 - An app to help government agents, other inspectors, distributors and others in there process to audit fish fillets.
 - A backend solution based on [Elastic Cloud](https://cloud.elastic.co)
-- An analytics platform where a user can interact with the live dataset.
+- An analytics platform where a user can interact with the live dataset
 
 This project includes the analytics part of the solution and features scripts to generate data in to Elasticsearch as well as a definition of a live example dashboard that is aimed to let a regulatory body in its daily work to track Passed and Failed audits/inspections. The dashboard give information about:
 - Where the Inspection/Audit was carried out

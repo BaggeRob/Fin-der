@@ -8,6 +8,7 @@ You can interactive with our data here [Fin-der interactive dashboard](https://c
 Login with the following credentials:
 
 username: finder_dashboard
+
 password: finder_dashboard
 
 

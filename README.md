@@ -1,4 +1,4 @@
-# Finder
+# Fin-der
 
 Open source resources for the project Finder during Fishackathon 2016
 

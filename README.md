@@ -51,7 +51,15 @@ To make full use of this code you will need an Elasticsearch cluster with the Ki
 
 
 ### Data generation
-Run the data generation script with
+Disclaimer: To do this step you will need node installed on your computer
+
+Open the project and run
+
+```
+npm install
+```
+
+After that the data generation scripts can be run with the following command
 
 ```
 node generate-data-and-store-in-elasticsearch.es6 <elasticcloudEndpoint> <username> <password>

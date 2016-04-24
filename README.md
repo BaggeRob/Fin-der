@@ -25,7 +25,7 @@ node generate-data-and-store-in-elasticsearch.es6 <elasticcloudEndpoint> <userna
 For example:
 
 ```
-node generate-data-and-store-in-elasticsearch.es6 aafe860dfd296d3c6794bae5533fc2.eu-west-1.aws.found.io:9243 <username> <password>
+node generate-data-and-store-in-elasticsearch.es6 aafsf2.eu-west-1.aws.found.io:9243 <username> <password>
 ```
 
 where the <elasticcloudEndpoint> can be found in 'Overview' in your Elastic Cloud account and the username/password combination is what you created earlier in the setup-phase

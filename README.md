@@ -2,7 +2,10 @@
 # Fin-der
 
 Open source resources for the project Finder during Fishackathon 2016
-Link to the live dashboard: ["Fin-der data dashboard"](https://c0746c228e7c9263ac770c7b3343112a.eu-west-1.aws.found.io/app/kibana#/dashboard/fish?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-30d,mode:quick,to:now))&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:Number-of-Inspections-Passed-slash-Failed,panelIndex:6,row:1,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-inspections-carried-out-in-an-area-(Darker-colour-equal-Higher-density)',panelIndex:7,row:1,size_x:6,size_y:5,type:visualization),(col:7,id:Number-of-Passed-slash-Failed-Inspection-per-Supplier,panelIndex:9,row:5,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-Passed-slash-Failed-Inspections-over-Time-(Passed-in-Blue,-Failed-in-Red)',panelIndex:10,row:6,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,query:'*')),title:fish,uiState:(P-6:(vis:(colors:(failedinspection:%23EA6460,passedinspection:%231F78C1),legendOpen:!f)),P-9:(vis:(legendOpen:!f)))))
+
+Link to the live dashboard: [Fin-der data dashboard]()
+
+<iframe src="https://c0746c228e7c9263ac770c7b3343112a.eu-west-1.aws.found.io/app/kibana#/dashboard/fish?embed=true&_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-30d,mode:quick,to:now))&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:Number-of-Inspections-Passed-slash-Failed,panelIndex:6,row:1,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-inspections-carried-out-in-an-area-(Darker-colour-equal-Higher-density)',panelIndex:7,row:1,size_x:6,size_y:5,type:visualization),(col:7,id:Number-of-Passed-slash-Failed-Inspection-per-Supplier,panelIndex:9,row:5,size_x:6,size_y:4,type:visualization),(col:1,id:'Number-of-Passed-slash-Failed-Inspections-over-Time-(Passed-in-Blue,-Failed-in-Red)',panelIndex:10,row:6,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,query:'*')),title:fish,uiState:(P-6:(vis:(colors:(failedinspection:%23EA6460,passedinspection:%231F78C1),legendOpen:!f)),P-9:(vis:(legendOpen:!f))))" height="600" width="800"></iframe>m
 
 
 # Usage
